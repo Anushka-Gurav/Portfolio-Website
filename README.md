@@ -10,7 +10,7 @@ Pages
 3)Family
 4)Skills
 5)Qualification
-6)Enguiry
+6)Enquiry
 --------------------------------
 1)Home
 -------------------------------
